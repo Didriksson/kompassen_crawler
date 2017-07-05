@@ -10,7 +10,8 @@ defmodule Kompassen.Crawler do
               }
               
   @kompassen_url "http://www.restaurangkompassen.se/index.php?option=com_content&view=article&id=64&Itemid=66"
-
+  @kompassen_url_next_week "http://www.restaurangkompassen.se/index.php?option=com_content&view=article&id=108%3Adagens-lunch&catid=34&Itemid=66"
+  
   def get_body(url) do
     case HTTPoison.get(url) do
       {:ok, %HTTPoison.Response{status_code: 200, body: body}} ->
@@ -57,15 +58,23 @@ defmodule Kompassen.Crawler do
   end
   
   defp clean_string([]), do: []
+  
+  defp get_kompassen_url() do
+    if Date.day_of_week == 7 do
+      @kompassen_url_next_week
+    else
+      @kompassen_url
+    end
+  end
 
-  def crawl(food, body \\ get_body(@kompassen_url), day \\ tomorrow()) do
-        body
-        |> get_food_and_day_list
-        |> get_food_for_day(day)
-        |> Enum.filter(&(
-            String.downcase(&1) |> String.contains?(food))
-           )
-        |> clean_string
+  def crawl(food, body \\ get_body(get_kompassen_url()), day \\ tomorrow()) do
+    body
+    |> get_food_and_day_list
+    |> get_food_for_day(day)
+    |> Enum.filter(&(
+        String.downcase(&1) |> String.contains?(food))
+        )
+    |> clean_string
   end
 
 end
