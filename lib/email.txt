@@ -1,0 +1,23 @@
+<html>
+
+<h1>PRISA GUDARNA!</h1>
+
+<pre>
+  ______              _         _           _   _ 
+ |  ____|            | |       | |         | | | |
+ | |__ ___   ___   __| |   __ _| | ___ _ __| |_| |
+ |  __/ _ \ / _ \ / _` |  / _` | |/ _ \ '__| __| |
+ | | | (_) | (_) | (_| | | (_| | |  __/ |  | |_|_|
+ |_|  \___/ \___/ \__,_|  \__,_|_|\___|_|   \__(_)
+                                                  
+
+Imorgon serveras inget mindre än:
+
+ BYTUTMIG på Kompassen!
+ 
+Väl mött!
+
+PS: Idag var du superfin i håret.
+
+</pre>
+</html>

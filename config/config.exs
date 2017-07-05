@@ -30,12 +30,12 @@ use Mix.Config
 #     import_config "#{Mix.env}.exs"
 
 # In your config/config.exs file
-config :my_app, Kompassen.Mailer,
+config :kompassen, Kompassen.Mailer,
   adapter: Bamboo.SMTPAdapter,
   server: "smtp.domain",
   port: 1025,
-  username: SYSTEM.get_env("SMTP_USERNAME"),
-  password: SYSTEM.get_env("SMTP_PASSWORD"),
+  username: "foo",
+  password: "bar",
   tls: :if_available, # can be `:always` or `:never`
   ssl: false, # can be `true`
   retries: 1

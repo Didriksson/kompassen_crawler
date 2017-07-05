@@ -1,4 +1,4 @@
-defmodule KompassenCrawlerTest do
+defmodule Kompassen.CrawlerTest do
   use ExUnit.Case
   doctest Kompassen.Crawler
 
