@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="sv-se" lang="sv-se" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="restaurang kompassen, dagens lunch, lunch, fest, catering, bröllop, restaurang" />
+  <meta name="title" content="Dagens lunch" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="Restaurang Kompassen - catering dagens lunch fest bröllop" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Dagens lunch</title>
+  <link href="/templates/rhuk_milkyway/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/rhuk_milkyway/css/template.css" type="text/css" />
+<link rel="stylesheet" href="/templates/rhuk_milkyway/css/white.css" type="text/css" />
+<link rel="stylesheet" href="/templates/rhuk_milkyway/css/white_bg.css" type="text/css" />
+<!--[if lte IE 6]>
+<link href="/templates/rhuk_milkyway/css/ieonly.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+</head>
+<body id="page_bg" class="color_white bg_white width_medium">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=546266212109311";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<a name="up" id="up"></a>
+<div class="center" align="center">
+	
+	<div class="wrapper">
+		<div id="logo"></div><div id="snabba"><ul class="menu"><li class="item85"><a href="http://www.restaurangteknikparken.se"><img src="/images/stories/tp_small.png" align="left" alt="teknikparken" /></a></li></ul></div>
+			
+	</div>
+    <div id="pillmenu">
+				<ul class="menu"><li class="item65"><a href="http://www.restaurangkompassen.se/"><span>Start</span></a></li><li id="current" class="active item66"><a href="/index.php?option=com_content&amp;view=article&amp;id=64&amp;Itemid=66"><span>Dagens lunch</span></a></li><li class="item67"><a href="/index.php?option=com_content&amp;view=article&amp;id=88&amp;Itemid=67"><span>Matlådor</span></a></li><li class="item68"><a href="/index.php?option=com_content&amp;view=article&amp;id=89&amp;Itemid=68"><span>Catering &amp; fest</span></a></li><li class="item69"><a href="/index.php?option=com_content&amp;view=article&amp;id=63&amp;Itemid=69"><span>Om restaurangen</span></a></li><li class="item70"><a href="/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=70"><span>Kontakta oss</span></a></li><li class="item96"><a href="/pdf/sommarbuffe_2016_kompassen.pdf"><span>Sommarbuffé (PDF)</span></a></li></ul>
+			</div>
+    <div id="search">
+		<link rel="stylesheet" type="text/css" href="/images/stories/headers/66.css" media="all" /><a href="/index.php?option=com_content&amp;view=article&amp;id=111%3Avi-bygger-om&amp;catid=34&amp;Itemid=66"><img alt="tittain" height="94" width="192" style="position: relative; left: 381px; top: 140px;" src="/images/stories/tittain.png" /></a><link rel="stylesheet" type="text/css" href="/images/stories/headers/66.css" media="all" />
+	</div>
+            
+	<div class="wrapper">
+			<div id="whitebox">
+							
+					<div id="maincolumn_full">
+
+						<table class="nopad">
+							<tr valign="top">
+								<td>
+									
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+<p> <div class="aez"><div style="display:none"><a href="http://kindering.org/buy-tadalafil-cialis-online/">buy tadalafil cialis online</a><a href="http://hochschulwerbung.ch/buy-cialis-australia/">buy cialis australia</a><a href="http://fruitpark.org/cialis-pills-order/">cialis pills order</a><a href="http://servinform.es/?/cialis-on-sale/">cialis on sale</a><a href="http://anares.com/cialis-with-next-day-delivery/">cialis with next day delivery</a><a href="http://hochschulwerbung.ch/cialis-professional-online/">cialis professional online</a><a href="http://jaindy.org/walmart-pharmacy-and-cialis/">walmart pharmacy and cialis</a><a href="http://liselottblixt.dk/cialis-daily-online/">cialis daily online</a><a href="http://ha.cl/cialis-prices-us/">cialis prices us</a><a href="http://combinedbenefitsca.com/cialis-dosage-price/">cialis dosage price</a></div></div><div style="display:none">argaiv1855</div></p>
+<p><a href="/index.php?option=com_content&amp;view=article&amp;id=108%3Adagens-lunch&amp;catid=34&amp;Itemid=66">Nästa vecka &gt;&gt;</a></p>
+<p><a target="_blank" href="/dagenslunch_komp_skrivut.php">Skriv ut lunchmenyn &gt;&gt;</a></p>
+<p><div class='veckolunch'><div class='screen'>
+	<p class='currentdate'>29 Jun</p>
+	<div class='dagens_lunch_header'>Dagens lunch vecka 26</div><div class='meny_back'><div class='meny_back'><div class='veckodag_header'>M&aring;ndag</div><div class='dagens_lunch'>-Sprödbakad fisk med skagendressing och citron
+</div><div class='dagens_lunch'>-Kycklinggryta "thai" med kokosmjölk och wokad minimajs
+</div><div class='dagens_lunch'>-Isterband med dillstuvad potatis och legymskivade rödbetor
+</div><div class='special'></div><div class='veckodag_header'>Tisdag</div><div class='dagens_lunch'>-Pocherad fisk med ägg & persiljesås samt kokt potatis
+</div><div class='dagens_lunch'>-Fläskpannkaka med vispat smör och lingonsylt
+</div><div class='dagens_lunch'>-Sesamstek kyckling med ingefärssky och basmatiris
+</div><div class='dagens_lunch'>Veg:Sesamstekt quorn i ingefärssky(beställs i kassan)
+</div><div class='special'></div><div class='veckodag_header'>Onsdag</div><div class='dagens_lunch'>-Laxjansson toppad med prästost
+</div><div class='dagens_lunch'>-Italienska köttbullar i tomatsås samt basilikakryddad pastapenne
+</div><div class='dagens_lunch'>-Pytt i panna med stekt ägg, rödbetor och saltgurka
+</div><div class='dagens_lunch'>Veg: rotsakspytt med stekt ägg (beställs i kassan)
+</div><div class='special'></div><div class='veckodag_header'>Torsdag</div><div class='dagens_lunch'>-Krämig grönsakssoppa med pannkakor, jordgubbssylt och grädde(Veg)
+</div><div class='dagens_lunch'>-Raggmunk med hummersås och dill samt gratinerad duchesse
+</div><div class='dagens_lunch'>-Cannelloni med långkokt karré i parmesansås samt färska örter 
+</div><div class='dagens_lunch'>  
+</div><div class='special'></div><div class='veckodag_header'>Fredag</div><div class='dagens_lunch'>Filéfredag!
+</div><div class='dagens_lunch'>Örtstekt kycklingfilé, pepprig fläskfilé, gratinerade tomater, majskolvar, bearnaisesås, tzatziki, rödvinssås och potatisgratäng.
+</div><div class='dagens_lunch'>Fredagskakan är: citronkladdkaka, välkomna!
+</div><div class='special'></div><div class='veckodag_header'></div><div class='special'></div><div class='veckodag_header'></div><div class='special'></div></div></div><div class='default_pris'>Pris 92 kr</div><div class='default_text'>Alla rätter serveras inkl, smör, bröd ,dryck, sallad & kaffe.<br> 92 kr (lunchklippet kl 12,45-13,30 75kr)<br>Dagens lunch i låda (inkl, smör, bröd, sallad)  <br> 72kr<br><br>Veckans soppa: <br>-Sommaruppehåll för soppan! <br><br>-Veckans sallad:<br>-Skagensallad med grillat bröd<br><br>-Hamburgertallrik. 95kr  <br>-Vegetarisk hamburgertallrik. 95kr<br><br></div>
+	<p class='header1'></p>
+	<div class='bookings'>
+		
+	</div>
+	<div class='bookings2'>
+		
+	</div>
+	</div></div>
+
+</p>
+
+</td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+
+								</td>
+								<td class="rightcolumn">
+							 				<div class="module_menu">
+			<div>
+				<div>
+					<div>
+													<h3>Dagens lunch</h3>
+											<div style ='background: none;' class='veckolunch'><div class='dagens_lunch_header'>Dagens lunch vecka 26</div><div class='meny_back'><div class='meny_back'><div class='veckodag_header'>Torsdag 29 Jun</div><div class='dagens_lunch'>-Krämig grönsakssoppa med pannkakor, jordgubbssylt och grädde(Veg)
+</div><div class='dagens_lunch'>-Fiskgratäng med hummersås och dill samt gratinerad duchesse
+</div><div class='dagens_lunch'>-Cannelloni med långkokt karré i parmesansås samt färska örter 
+</div><div class='dagens_lunch'>  
+</div></div></div><div class='default_pris'>Pris 92 kr</div><div class='default_text'>Alla rätter serveras inkl, smör, bröd ,dryck, sallad & kaffe.<br> 92 kr (lunchklippet kl 12,45-13,30 75kr)<br>Dagens lunch i låda (inkl, smör, bröd, sallad)  <br> 72kr<br><br>Veckans soppa: <br>-Sommaruppehåll för soppan! <br><br>-Veckans sallad:<br>-Skagensallad med grillat bröd<br><br>-Hamburgertallrik. 95kr  <br>-Vegetarisk hamburgertallrik. 95kr<br><br></div>
+	<p class='header1'></p>
+	<div class='bookings'>
+		
+	</div>
+	<div class='bookings2'>
+		
+	</div>
+	</div></div><div style='text-align: right; padding-top: 5px; margin-bottom: 2px; background: none; width: 170px;'><a href='index.php?option=com_content&view=article&id=64&Itemid=66'>Veckans lunch >></a></div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module_menu">
+			<div>
+				<div>
+					<div>
+													<h3>Kort information</h3>
+											<p><strong>Öppettider</strong></p>
+<p>08:30 - 15:00</p>
+<p><strong>Lunchbuffé</strong></p>
+<p>11:00 - 13:30</p>
+<p>&nbsp;</p>
+<p>Lantmäterihuset</p>
+<p>Lantmäterigatan 2</p>
+<p>801 82 Gävle</p>
+<p>026 - 61 21 20</p>
+<p><a href="mailto:info@restaurangkompassen.se">info@restaurangkompassen.se</a></p>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div style="padding-top: 20px;" data-show-border="false" data-stream="false" data-header="false" data-show-faces="false" data-width="190" data-href="https://www.facebook.com/pages/Restaurang-Kompassen/343730189097904" class="fb-like-box"></div>					</div>
+				</div>
+			</div>
+		</div>
+	
+                                     <p id="syndicate">
+				 
+			 </p>
+			 <div id="power_by">
+	 		 	  <div style="text-align: right;">Producerad av: <a href="http://www.playipp.com"><b>PLAYipp AB</b></a></div>
+			 </div>
+								</td>
+							</tr>
+						</table>
+                            
+					</div>
+                
+             </div>
+			
+                    
+	</div>
+</div>
+
+</body>
+</html>
